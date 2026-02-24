@@ -10,7 +10,7 @@
 1. Clone the GitHub repository
 
 ```bash
-git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
+git clone https://github.com/banothanusha-78/awesome-llm-apps.git
 cd awesome-llm-apps/chat_with_X_tutorials/chat_with_pdf
 ```
 2. Install the required dependencies
